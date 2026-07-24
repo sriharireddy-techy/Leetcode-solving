@@ -10,4 +10,16 @@
 |  |
 | ------- |
 | [3110-score-of-a-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/3110-score-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
