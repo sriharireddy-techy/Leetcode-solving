@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
