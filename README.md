@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -13,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -23,4 +25,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
