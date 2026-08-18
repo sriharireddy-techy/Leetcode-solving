@@ -1,7 +1,7 @@
 class Solution {
 public:
     string defangIPaddr(string address) {
-        string ans;
+        string ans="";
         int index=0;
         while(index<address.size()){
             if(address[index]=='.'){
