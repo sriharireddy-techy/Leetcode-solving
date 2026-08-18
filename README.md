@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1108-defanging-an-ip-address) |
 | [3110-score-of-a-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/3110-score-of-a-string) |
 ## Array
@@ -32,4 +33,12 @@
 | ------- |
 | [0189-rotate-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0283-move-zeroes) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
