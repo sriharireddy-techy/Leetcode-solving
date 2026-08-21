@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1021-remove-outermost-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
