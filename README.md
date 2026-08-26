@@ -13,6 +13,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1108-defanging-an-ip-address) |
 | [1903-largest-odd-number-in-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1903-largest-odd-number-in-string) |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
