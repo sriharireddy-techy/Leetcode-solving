@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0014-longest-common-prefix) |
+| [0169-majority-element](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0242-valid-anagram) |
@@ -70,5 +72,18 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
