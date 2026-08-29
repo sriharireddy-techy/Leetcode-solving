@@ -6,11 +6,13 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0205-isomorphic-strings) |
@@ -31,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0242-valid-anagram) |
