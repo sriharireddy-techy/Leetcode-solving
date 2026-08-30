@@ -17,6 +17,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1108-defanging-an-ip-address) |
 | [1903-largest-odd-number-in-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1903-largest-odd-number-in-string) |
@@ -39,6 +40,7 @@
 | [0205-isomorphic-strings](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,8 +85,17 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
