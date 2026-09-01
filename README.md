@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0283-move-zeroes) |
@@ -76,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0451-sort-characters-by-frequency) |
@@ -108,4 +111,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
