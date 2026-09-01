@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0151-reverse-words-in-a-string) |
@@ -48,6 +49,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0283-move-zeroes) |
@@ -98,4 +100,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0451-sort-characters-by-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
