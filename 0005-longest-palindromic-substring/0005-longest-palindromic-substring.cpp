@@ -7,7 +7,6 @@ public:
         int n = s.length();
         
         for (int i = 0; i < n; i++) {
-            // Case 1: Odd length palindromes (e.g., "aba", center is i)
             int left = i, right = i;
             while (left >= 0 && right < n && s[left] == s[right]) {
                 if (right - left + 1 > maxLen) {
@@ -18,7 +17,6 @@ public:
                 right++;
             }
             
-            // Case 2: Even length palindromes (e.g., "abba", center is between i and i+1)
             left = i; 
             right = i + 1;
             while (left >= 0 && right < n && s[left] == s[right]) {
@@ -31,7 +29,6 @@ public:
             }
         }
         
-        // Slice the string exactly once at the very end
         return s.substr(start, maxLen);
     }
 };
