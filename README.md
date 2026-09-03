@@ -7,6 +7,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0169-majority-element) |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
