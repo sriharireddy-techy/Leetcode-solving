@@ -28,6 +28,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |
