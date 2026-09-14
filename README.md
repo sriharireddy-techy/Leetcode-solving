@@ -36,6 +36,7 @@
 | [0189-rotate-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
