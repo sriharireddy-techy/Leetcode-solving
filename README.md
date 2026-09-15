@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0075-sort-colors) |
@@ -140,6 +141,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
