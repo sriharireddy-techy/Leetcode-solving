@@ -38,6 +38,7 @@
 | [0189-rotate-array](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
