@@ -41,6 +41,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2090-k-radius-subarray-averages](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -57,6 +58,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0643-maximum-average-subarray-i) |
+| [2090-k-radius-subarray-averages](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/2090-k-radius-subarray-averages) |
 ## Two Pointers
 |  |
 | ------- |
