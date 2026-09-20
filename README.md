@@ -25,6 +25,7 @@
 | [1108-defanging-an-ip-address](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1108-defanging-an-ip-address) |
 | [1903-largest-odd-number-in-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/1903-largest-odd-number-in-string) |
 | [3110-score-of-a-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
