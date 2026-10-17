@@ -153,4 +153,20 @@
 | [0035-search-insert-position](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0704-binary-search) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sriharireddy-techy/Leetcode-solving/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
