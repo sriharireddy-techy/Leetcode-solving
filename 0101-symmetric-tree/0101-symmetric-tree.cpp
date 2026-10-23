@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
-        // An empty tree is inherently symmetric
+        
         if (!root) return true;
         return isMirror(root->left, root->right);
     }
